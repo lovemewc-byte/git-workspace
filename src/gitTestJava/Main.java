@@ -18,6 +18,7 @@ public class Main {
     public static void main(String[] args) {
     		System.out.println("Hello Git!");
         System.out.println("This is a new feature branch.");
+        System.out.println("This is a new feature branch2");
         
         try {
             // 1. XML 파싱
