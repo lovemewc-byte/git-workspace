@@ -25,8 +25,10 @@ public class Main {
         System.out.println("This is a new feature branch6");
         
         System.out.println("This is a new feature function branch7");
+        System.out.println("This is a new feature function branch8");
         
         System.out.println("This is a new feature master1");
+        System.out.println("This is a new feature master2");
         
         
         try {
